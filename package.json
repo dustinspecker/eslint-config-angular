@@ -29,7 +29,7 @@
     "gulp": "^3.9.0",
     "gulp-eslint": "^1.0.0",
     "gulp-istanbul": "^0.10.0",
-    "gulp-jscs": "^1.6.0",
+    "gulp-jscs": "^2.0.0",
     "gulp-jshint": "^1.11.0",
     "gulp-mocha": "^2.1.0",
     "is-array": "^1.0.1",
