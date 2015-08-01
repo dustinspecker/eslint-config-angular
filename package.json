@@ -12,7 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/dustinspecker/eslint-config-angular.git"
   },
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
   "author": "Dustin Specker",
   "license": "MIT",
   "bugs": {
