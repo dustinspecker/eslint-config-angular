@@ -43,6 +43,7 @@ module.exports = {
     'angular/ng_typecheck_object': 2,
     'angular/ng_typecheck_regexp': 2,
     'angular/ng_typecheck_string': 2,
-    'angular/ng_window_service': 2
+    'angular/ng_window_service': 2,
+    'no-use-before-define': [2, 'nofunc']
   }
 };
