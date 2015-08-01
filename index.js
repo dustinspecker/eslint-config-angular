@@ -8,17 +8,17 @@ module.exports = {
     'angular'
   ],
   rules: {
-    'angular/ng_angularelement': 2,
+    'angular/ng_angularelement': 1,
     'angular/ng_controller_as': 2,
     'angular/ng_controller_as_route': 2,
     'angular/ng_controller_as_vm': [2, 'vm'],
-    'angular/ng_controller_name': [2, '/[A-Z].*Ctrl$/'],
-    'angular/ng_deferred': 2,
+    'angular/ng_controller_name': [2, '/[A-Z].*Controller$/'],
+    'angular/ng_deferred': 0,
     'angular/ng_definedundefined': 2,
     'angular/ng_di': [2, 'function'],
     'angular/ng_directive_name': 0,
     'angular/ng_document_service': 2,
-    'angular/ng_empty_controller': 2,
+    'angular/ng_empty_controller': 0,
     'angular/ng_foreach': 0,
     'angular/ng_filter_name': 0,
     'angular/ng_function_type': 0,
@@ -44,6 +44,6 @@ module.exports = {
     'angular/ng_typecheck_regexp': 2,
     'angular/ng_typecheck_string': 2,
     'angular/ng_window_service': 2,
-    'no-use-before-define': [2, 'nofunc']
+    'no-use-before-define': 0
   }
 };
