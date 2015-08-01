@@ -1,0 +1,38 @@
+{
+  "name": "eslint-config-angular",
+  "version": "0.0.0",
+  "description": "ESLint shareable config for Angular plugin",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "npm test",
+    "test": "gulp test",
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinspecker/eslint-config-angular.git"
+  },
+  "keywords": [],
+  "author": "Dustin Specker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinspecker/eslint-config-angular/issues"
+  },
+  "homepage": "https://github.com/dustinspecker/eslint-config-angular#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^5.6.12",
+    "chai": "^3.0.0",
+    "coveralls": "^2.11.2",
+    "eslint": "^1.0.0",
+    "eslint-path-formatter": "^0.1.1",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-istanbul": "^0.10.0",
+    "gulp-jscs": "^1.6.0",
+    "gulp-jshint": "^1.11.0",
+    "gulp-mocha": "^2.1.0",
+    "is-array": "^1.0.1",
+    "is-plain-obj": "^1.0.0"
+  }
+}
