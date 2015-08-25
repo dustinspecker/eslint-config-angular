@@ -19,6 +19,8 @@ In your .eslintrc file:
 }
 ```
 
+This config will also add `angular` as a global variable and disable the `no-use-before-define` rule as recommended by [eslint-plugin-angular](https://github.com/Gillespie59/eslint-plugin-angular).
+
 All options from [index.js](index.js) may be overridden in your .eslintrc file.
 
 ## LICENSE
