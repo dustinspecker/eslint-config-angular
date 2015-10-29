@@ -24,7 +24,7 @@
   "homepage": "https://github.com/dustinspecker/eslint-config-angular#readme",
   "dependencies": {},
   "devDependencies": {
-    "babel": "^5.6.12",
+    "babel": "^6.0.2",
     "chai": "^3.0.0",
     "coveralls": "^2.11.2",
     "eslint": "^1.0.0",
