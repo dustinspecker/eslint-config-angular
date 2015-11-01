@@ -24,7 +24,7 @@
   "homepage": "https://github.com/dustinspecker/eslint-config-angular#readme",
   "dependencies": {},
   "devDependencies": {
-    "babel-core": "^6.0.12",
+    "babel-core": "^6.0.15",
     "babel-eslint": "^4.1.3",
     "babel-preset-es2015": "^6.0.14",
     "chai": "^3.0.0",
