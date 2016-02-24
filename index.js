@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 module.exports = {
   globals: {
@@ -54,4 +54,4 @@ module.exports = {
     'angular/window-service': 2,
     'no-use-before-define': 0
   }
-};
+}
