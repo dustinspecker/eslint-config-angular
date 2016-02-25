@@ -27,7 +27,7 @@ module.exports = {
     'angular/function-type': 0,
     'angular/interval-service': 2,
     'angular/json-functions': 2,
-    'angular/log': 1,
+    'angular/log': 0,
     'angular/module-getter': 2,
     'angular/module-name': 0,
     'angular/module-setter': 2,
