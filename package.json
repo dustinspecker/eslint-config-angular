@@ -35,7 +35,7 @@
     "eslint-plugin-xo": "^0.4.0",
     "gulp": "^3.9.0",
     "gulp-eslint": "^2.0.0",
-    "gulp-istanbul": "^0.10.0",
+    "gulp-istanbul": "^1.1.0",
     "gulp-mocha": "^2.1.0",
     "is-array": "^1.0.1",
     "is-plain-obj": "^1.0.0"
