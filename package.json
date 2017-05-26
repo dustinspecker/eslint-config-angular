@@ -27,7 +27,7 @@
     "babel-core": "^6.0.12",
     "babel-eslint": "^6.0.0-beta.6",
     "babel-preset-es2015": "^6.0.14",
-    "chai": "^3.0.0",
+    "chai": "^4.0.0",
     "coveralls": "^2.11.2",
     "eslint-config-dustinspecker": "^1.1.0",
     "eslint-plugin-new-with-error": "^1.1.0",
